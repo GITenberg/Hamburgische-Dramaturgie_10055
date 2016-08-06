@@ -1,0 +1,28 @@
+_repo: Hamburgische-Dramaturgie_10055
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lessing, Gotthold Ephraim
+    alias: Lessing, G. E.
+    birthdate: 1729
+    deathdate: 1781
+    gutenberg_agent_id: '990'
+    url: http://www.gutenberg.org/2009/agents/990
+    wikipedia: http://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
+description: ''
+gutenberg_bookshelf: DE Drama
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10055'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Drama -- Technique'
+- !lcsh 'Aristotle, 384 BC-322 BC. Poetics'
+- GITenberg
+title: Hamburgische Dramaturgie
+url: http://www.gutenberg.org/ebooks/10055
